@@ -1,6 +1,7 @@
 {
   "mappings": [
-    "/content/vv-xwalk/:/"
+    "/content/vv-xwalk/:/",
+    "/content/vv-xwalk/metadata:/metadata.json"
   ],
   "includes": [
     "/content/vv-xwalk/"
